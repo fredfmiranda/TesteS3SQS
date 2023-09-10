@@ -1,5 +1,7 @@
 # TesteS3SQS
 
+Antes de executar essa aplicação favor entrar na pasta acima AppUploadS3Bucket e ler as orientações do Readme.md deste diretório, a aplicação dessa pasta AppUploadS3Bucket é um pré-requisito e deve ser executada antes de executar os passos informados abaixo.
+
 Na raiz do projeto existe o arquivo Dockerfile. 
 
 Para construir e executar o container, rode os comandos abaixo no diretório aonde o arquivo Dockerfile se encontra:
